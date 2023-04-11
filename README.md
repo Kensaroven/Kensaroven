@@ -9,12 +9,11 @@ I am an avid marathoner, pencil artist and a music lover. I would love to expres
 <img width="1344" alt="image" src="https://user-images.githubusercontent.com/60126568/231059993-17e5eabd-b7d2-45fe-b633-cd4f98b0fa0b.png">
 
 - Email: saroven11@gmail.com(saroven11@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/ken-saroven/
 - Website: https://kensaroven.github.io/Ken_Portfolio/
 
 <p align=center>
-<a href="https://www.linkedin.com/in/ken-saroven/"><img height="25" src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
-<a href="https://datascience.hp.com/us/en/our-ambassadors/ruchi-bhatia.html"><img height="25" src="https://img.shields.io/badge/Z%20by%20HP-Ambassador%20Profile-lightgrey"></a>
+<a href="https://www.linkedin.com/in/ken-saroven/"><img height="25" src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue"></a>
+<a href="https://kensaroven.github.io/Ken_Portfolio/"><img height="25" src="https://img.shields.io/static/v1?label=Website&message=Profile-lightgrey"></a>
 </p>
 
 
