@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Kensaroven/Kensaroven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion for data and the business impacts of data are never ending, as I age through and witness the wonders it
+can perform. I am an experienced data scientist with 4 years of work experience in the field of analytics and wish to contribute more over challenging business problems.
 
-Here are some ideas to get you started:
+I am an avid marathoner, pencil artist and a music lover. I would love to express more of me.
+
+<img width="1344" alt="image" src="https://user-images.githubusercontent.com/60126568/231059993-17e5eabd-b7d2-45fe-b633-cd4f98b0fa0b.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
