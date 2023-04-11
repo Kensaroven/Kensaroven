@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This is Ken Saroven and I am a 
+### This is Ken Saroven and I am a graduate student and an aspiring data scientist
 
 My passion for data and the business impacts of data are never ending, as I age through and witness the wonders it can perform. I am an experienced data scientist with 4 years of work experience in the field of analytics and wish to contribute more over challenging business problems.
 
