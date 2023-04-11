@@ -1,6 +1,4 @@
-<p align=center>
 ## Hi there 👋
-</p>
 
 ### This is Ken Saroven and I am a graduate student and an aspiring data scientist
 
