@@ -8,7 +8,7 @@ I am an avid marathonist, pencil artist and a music lover. I would love to expre
 
 <img width="1344" alt="image" src="https://user-images.githubusercontent.com/60126568/231059993-17e5eabd-b7d2-45fe-b633-cd4f98b0fa0b.png">
 
-- Email: saroven11@gmail.com
+Email: saroven11@gmail.com
 
 <p align=center>
 <a href="https://www.linkedin.com/in/ken-saroven/"><img height="25" src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue"></a>
