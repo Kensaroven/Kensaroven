@@ -6,8 +6,6 @@ My passion for data and the business impacts of data are never ending, as I age 
 
 I am an avid marathonist, pencil artist and a music lover. I would love to express more on myself.
 
-<img width="1344" alt="image" src="https://user-images.githubusercontent.com/60126568/231059993-17e5eabd-b7d2-45fe-b633-cd4f98b0fa0b.png">
-
 Email: saroven11@gmail.com
 
 <p align=center>
